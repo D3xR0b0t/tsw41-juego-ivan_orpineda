@@ -1,0 +1,36 @@
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\bin\Debug\discoball.exe.config
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\bin\Debug\discoball.exe
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\bin\Debug\discoball.pdb
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.csprojAssemblyReference.cache
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.Form1.resources
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.Properties.Resources.resources
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.csproj.GenerateResource.cache
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.csproj.CoreCompileInputs.cache
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.exe
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.pdb
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.solo.resources
+C:\Users\D3xR0b0t\Desktop\tsw41\discoball\discoball\obj\Debug\discoball.Menu_Principal.resources
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.csprojAssemblyReference.cache
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.Form1.resources
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.Menu_Principal.resources
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.Properties.Resources.resources
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.solo.resources
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.csproj.GenerateResource.cache
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.csproj.CoreCompileInputs.cache
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.exe
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.pdb
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\bin\Debug\discoball.exe.config
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\bin\Debug\discoball.exe
+C:\Users\D3xR0b0t\Desktop\tsw41\13 discoball\discoball\bin\Debug\discoball.pdb
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\bin\Debug\discoball.exe.config
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\bin\Debug\discoball.exe
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\bin\Debug\discoball.pdb
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.csprojAssemblyReference.cache
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.Form1.resources
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.Menu_Principal.resources
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.Properties.Resources.resources
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.solo.resources
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.csproj.GenerateResource.cache
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.csproj.CoreCompileInputs.cache
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.exe
+C:\Users\DexPc\Desktop\tsw41\13 discoball\discoball\obj\Debug\discoball.pdb
